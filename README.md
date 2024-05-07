@@ -49,7 +49,7 @@ python src/fslr.py -c configs/delfi_fslr.yaml
 ```
 
 ## Authors
-    - Bram Pronk                    I.B.Pronk@student.tudelft.nl
+    - Bram Pronk                    I.B.Pronk@tudelft.nl
 
 ## Citations
 - Cristiano, S., Leal, A., Phallen, J. et al. Genome-wide cell-free DNA fragmentation in patients with cancer. Nature 570, 385–389 (2019). https://doi.org/10.1038/s41586-019-1272-6
