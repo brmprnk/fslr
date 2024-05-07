@@ -1,0 +1,7 @@
+GLOBAL_PARAMS:
+  experiment: 'delfi_all_fslr_5mb'
+  dir: '/media/ubartu/second_storage/frags_data/stein_more_diseases'
+  bed: 'beds/hg38_5mb.bed'
+  min_frag_size: 20
+  max_frag_size: 550
+
