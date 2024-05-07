@@ -1,7 +1,6 @@
 # FSLR              <img src="https://www.abuse.nl/assets/logos/tudelft.png" width="100" height="50">  <img src="https://www.annabel.nu/wp-content/uploads/2023/03/Erasmus-MC-logo.png" width="100" height="50">
 
 [![Python Version](https://img.shields.io/static/v1.svg?label=Python%20Version&message=3.9&color=blue)](https://www.python.org/downloads)
-[![Conda Install](https://anaconda.org/conda-forge/terraform-provider-github/badges/installer/conda.svg)](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 Implementation of retrieving the fragment short/long ratio's (FSLR) from the DELFI method by Cristiano et al. [1] implemented in Python.
 Supports multiprocessing and the use of .yaml files to set program parameters.
